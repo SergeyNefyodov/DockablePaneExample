@@ -1,0 +1,11 @@
+﻿<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>DockablePaneExample</Name>
+        <Assembly>DockablePaneExample/DockablePaneExample.dll</Assembly>
+        <AddInId>B7CC71C6-6725-4D92-8044-1F16B12631DC</AddInId>
+        <FullClassName>DockablePaneExample.Application</FullClassName>
+        <Text>DockablePaneExample</Text>
+        <VendorId>MyId</VendorId>
+        <VendorDescription></VendorDescription>
+    </AddIn>
+</RevitAddIns>
